@@ -1,1 +1,1 @@
-# Django-Code
+# Meeting - Planner Backend Code Using Django 
